@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Carlos Álvarez Martín",
+    "label": "Junior Developer alumno de C.F.G.S de desarrollo de aplicaciones web",
+    "image": "/me.webp",
+    "email": "calvarezmartin96@gmail.com",
+    "phone": "+34 666061673",
+    "url": "",
+    "summary": "Soy un estudiante apasionado por el desarrollo web en busca de una empresa donde poner en práctica mis conocimientos, aprender y crecer profesionalmente. Soy proactivo, organizado y con una gran capacidad de aprendizaje. Me adapto fácilmente a diferentes entornos y lenguajes de programación, y estoy dispuesto a afrontar cualquier desafío.",
+    "location": {
+      "address": "",
+      "postalCode": "18100",
+      "city": "Armilla, Granada",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "carlosalvarezmartin96",
+        "url": "https://www.linkedin.com/in/carlosalvarezmartin96/"
+      },
+      {
+        "network": "GitHub",
+        "username": "CarlosAlvarez96",
+        "url": "https://github.com/CarlosAlvarez96"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GRANASAT",
+      "position": "Junior trainee software developer",
+      "url": "https://granasat.space/",
+      "startDate": "2023-04-10",
+      "endDate": "2023-06-1",
+      "summary": "Programador en prácticas",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "IES POLITÉCNICO Hermenegildo Lanz",
+    "url": "https://www.ieshlanz.es/",
+    "area": "Desarrollo de Aplicaciones Web",
+    "studyType": "Bachelor",
+    "startDate": "2022-09-15",
+    "endDate": "2024",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+  }],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+        , "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B2 English certificate  "
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Wonder Notes",
+      "isActive": true,
+      "description": "Redacta y guarda tus notas en línea",
+      "highlights": [
+        "Añade markdown a tus notas",
+        "En desarrollo"
+      ],
+      "url": "https://wonder-notes.vercel.app/",
+      "github": "https://github.com/CarlosAlvarez96/wonderNotes?tab=readme-ov-file"
+    },
+    {
+      "name": "Question generator",
+      "isActive": true,
+      "description": "Genera preguntas con IA sobre tus textos",
+      "highlights": [
+        "Genera 5 preguntas con IA sobre tus textos",
+        "En desarrollo",
+        "JavaScript & React"
+      ],
+      "url": "https://questions-generator-silk.vercel.app/",
+      "github": "https://github.com/CarlosAlvarez96/Questions-generator"
+    }
+  ]
+}
